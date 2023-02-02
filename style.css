@@ -1,0 +1,72 @@
+/* Fontes
+font-family: 'Inter', sans-serif;
+font-family: 'Open Sans', sans-serif;
+*/
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+} 
+
+#hero {
+  width: 37rem;
+  margin: 0 auto 4.5rem;
+}
+
+#hero img {
+  margin-bottom: 4.5rem;
+}
+
+h1 {
+  font-family: 'Inter', sans-serif;
+  font-size: 49px;
+  line-height: 56px;
+  font-weight: normal;
+  margin-bottom: 2rem;
+}
+
+h1 span {
+  font-weight: bold;
+}
+
+span {
+  color: #FF9900;
+}
+
+p, #footer {
+  color: #7D7987;
+  font-size: 14px;
+  line-height: 28px;
+}
+
+#footer .line {
+  width: 37rem;
+  border-top: 1px solid hsla(210, 19%, 94%, 1);
+  margin: 0 auto 0.5rem;
+}
+
+#footer a + a {
+  margin-left: 1.75rem;
+}
+
+a {
+  text-decoration: none;
+  color: #FF9900;
+  /* margin-bottom: 2.0625rem; */
+}
+
+/* #footer {
+  margin-bottom: 2.0625rem;
+} */
+
+#balls {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
