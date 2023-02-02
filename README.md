@@ -32,8 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Primeiro projeto desenvolvido na Trilha Explorer da Rocketseat. Uma homepage de uma empresa de móveis personalizados.
 
-- [Acesse o projeto finalizado, online]()
-
+- [Acesse o projeto finalizado, online](https://fernandoalvesrufino.github.io/homepage-moveis-customizados/)
 
 
 ## :memo: Licença
