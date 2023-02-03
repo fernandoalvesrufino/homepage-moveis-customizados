@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./images/homepage-moveis-customizados.png" width="100%">
+  <img alt="Homepage de um site de móveis customizados" src="./images/homepage-moveis-customizados.png" width="100%">
 </p>
 
 
